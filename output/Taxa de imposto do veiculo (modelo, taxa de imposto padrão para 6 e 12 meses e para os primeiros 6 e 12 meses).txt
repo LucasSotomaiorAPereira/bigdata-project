@@ -1,0 +1,273 @@
+1 Series 5-door F20 From September 2011	default6Months=785.0, default12Months=431.75, first6Months=785.0, first12Months=431.75
+1 Series E81/E82/E87/E88	default6Months=2160.0, default12Months=1188.0, first6Months=2160.0, first12Months=1188.0
+1600 From January 2011 onwards	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+2000 From January 2011 onwards	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+207 CC	default6Months=270.0, default12Months=148.5, first6Months=270.0, first12Months=148.5
+207 Hatchback	default6Months=1460.0, default12Months=803.0, first6Months=1460.0, first12Months=803.0
+207 SW	default6Months=545.0, default12Months=299.75, first6Months=545.0, first12Months=299.75
+208 Hatchback	default6Months=360.0, default12Months=198.0, first6Months=360.0, first12Months=198.0
+3 Series E90/E91/E92/E93	default6Months=3600.0, default12Months=1980.0, first6Months=3600.0, first12Months=1980.0
+3 Series Saloon F30 From February 2012	default6Months=540.0, default12Months=297.0, first6Months=540.0, first12Months=297.0
+3008	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+308 CC	default6Months=645.0, default12Months=354.75, first6Months=645.0, first12Months=354.75
+308 Hatchback	default6Months=1070.0, default12Months=588.5, first6Months=1070.0, first12Months=588.5
+308 SW	default6Months=730.0, default12Months=401.5, first6Months=730.0, first12Months=401.5
+5 Series F10/F11 From March 2010	default6Months=11785.0, default12Months=6481.75, first6Months=11785.0, first12Months=6481.75
+500	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+5008	default6Months=835.0, default12Months=459.25, first6Months=835.0, first12Months=459.25
+508 SW	default6Months=575.0, default12Months=316.25, first6Months=575.0, first12Months=316.25
+508 Saloon	default6Months=540.0, default12Months=297.0, first6Months=540.0, first12Months=297.0
+6 Series F12/F13 March 2011	default6Months=1080.0, default12Months=594.0, first6Months=1080.0, first12Months=594.0
+6 Series Gran Coupé F06 From June 2012	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+911	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+A-Class 5 Door Model Year 2011	default6Months=2495.0, default12Months=1372.25, first6Months=2495.0, first12Months=1372.25
+A1	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+A1 Sportback	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+A3	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+A3 Cabriolet	default6Months=580.0, default12Months=319.0, first6Months=580.0, first12Months=319.0
+A3 Sportback	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+A4 Allroad	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+A4 Avant	default6Months=1480.0, default12Months=814.0, first6Months=1480.0, first12Months=814.0
+A4 Saloon	default6Months=1295.0, default12Months=712.25, first6Months=1295.0, first12Months=712.25
+A5 Cabriolet	default6Months=1290.0, default12Months=709.5, first6Months=1290.0, first12Months=709.5
+A5 Coupé	default6Months=1090.0, default12Months=599.5, first6Months=1090.0, first12Months=599.5
+A5 Sportback	default6Months=1515.0, default12Months=833.25, first6Months=1515.0, first12Months=833.25
+A6 Allroad	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+A6 Avant	default6Months=650.0, default12Months=357.5, first6Months=650.0, first12Months=357.5
+A6 Saloon	default6Months=530.0, default12Months=291.5, first6Months=530.0, first12Months=291.5
+A7 Sportback	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+ASX	default6Months=1275.0, default12Months=701.25, first6Months=1275.0, first12Months=701.25
+Accord Saloon Model Year 2011	default6Months=575.0, default12Months=316.25, first6Months=575.0, first12Months=316.25
+Accord Saloon Model Year 2012	default6Months=1545.0, default12Months=849.75, first6Months=1545.0, first12Months=849.75
+Accord Saloon Model Year 2013	default6Months=1070.0, default12Months=588.5, first6Months=1070.0, first12Months=588.5
+Accord Tourer Model Year 2011	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Accord Tourer Model Year 2012	default6Months=880.0, default12Months=484.0, first6Months=880.0, first12Months=484.0
+Accord Tourer Model Year 2013	default6Months=745.0, default12Months=409.75, first6Months=745.0, first12Months=409.75
+Agila Model Year 2011	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Agila Model Year 2012	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Alhambra	default6Months=745.0, default12Months=409.75, first6Months=745.0, first12Months=409.75
+Altea	default6Months=595.0, default12Months=327.25, first6Months=595.0, first12Months=327.25
+Altea XL	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+Astra 3 Door Hatchback Model Year 2011	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Astra 5 Door Hatchback Model Year 2010	default6Months=1070.0, default12Months=588.5, first6Months=1070.0, first12Months=588.5
+Astra 5 Door Hatchback Model Year 2011	default6Months=305.0, default12Months=167.75, first6Months=305.0, first12Months=167.75
+Astra 5 Door Hatchback Model Year 2012	default6Months=1190.0, default12Months=654.5, first6Months=1190.0, first12Months=654.5
+Astra 5 Door Sports Tourer Model Year 2011	default6Months=2395.0, default12Months=1317.25, first6Months=2395.0, first12Months=1317.25
+Astra 5 Door Sports Tourer Model Year 2012	default6Months=900.0, default12Months=495.0, first6Months=900.0, first12Months=495.0
+Astra GTC Model Year 2012	default6Months=240.0, default12Months=132.0, first6Months=240.0, first12Months=132.0
+Auris MY2012	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+Avensis MY2012	default6Months=1660.0, default12Months=913.0, first6Months=1660.0, first12Months=913.0
+Aveo MY2011	default6Months=305.0, default12Months=167.75, first6Months=305.0, first12Months=167.75
+B-Class Model Year 2012	default6Months=1440.0, default12Months=792.0, first6Months=1440.0, first12Months=792.0
+B-MAX Model Year Post 2012	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+BRZ From 2012 MY	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Beetle	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+Berlingo Multispace	default6Months=1060.0, default12Months=583.0, first6Months=1060.0, first12Months=583.0
+Bravo	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+C-Class Coupé Model Year 2012	default6Months=1005.0, default12Months=552.75, first6Months=1005.0, first12Months=552.75
+C-Class Estate Model Year 2012	default6Months=3595.0, default12Months=1977.25, first6Months=3595.0, first12Months=1977.25
+C-Class Saloon Model Year 2012	default6Months=4175.0, default12Months=2296.25, first6Months=4175.0, first12Months=2296.25
+C-MAX Model Year Post 2012	default6Months=660.0, default12Months=363.0, first6Months=660.0, first12Months=363.0
+C-MAX Model Year Pre 2012	default6Months=865.0, default12Months=475.75, first6Months=865.0, first12Months=475.75
+C3	default6Months=1025.0, default12Months=563.75, first6Months=1025.0, first12Months=563.75
+C3 Picasso	default6Months=390.0, default12Months=214.5, first6Months=390.0, first12Months=214.5
+C30 Model Year 13	default6Months=290.0, default12Months=159.5, first6Months=290.0, first12Months=159.5
+C30 Model Year 2012	default6Months=580.0, default12Months=319.0, first6Months=580.0, first12Months=319.0
+C4	default6Months=695.0, default12Months=382.25, first6Months=695.0, first12Months=382.25
+C4 Picasso	default6Months=820.0, default12Months=451.0, first6Months=820.0, first12Months=451.0
+C5 Saloon	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+C5 Tourer	default6Months=290.0, default12Months=159.5, first6Months=290.0, first12Months=159.5
+C70 Model Year 13	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+C70 Model Year 2012	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+CC	default6Months=545.0, default12Months=299.75, first6Months=545.0, first12Months=299.75
+CLS-Class Model Year 2012	default6Months=920.0, default12Months=506.0, first6Months=920.0, first12Months=506.0
+CX-5 Model Year 2012	default6Months=750.0, default12Months=412.5, first6Months=750.0, first12Months=412.5
+Captiva MY2012	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Carens	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+Chrysler Delta	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+Civic 3 door Model Year 2011	default6Months=410.0, default12Months=225.5, first6Months=410.0, first12Months=225.5
+Civic 5 door Model Year 2011	default6Months=750.0, default12Months=412.5, first6Months=750.0, first12Months=412.5
+Civic 5 door Model Year 2012	default6Months=660.0, default12Months=363.0, first6Months=660.0, first12Months=363.0
+Clio	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Colt 3 Door	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Colt 5 Door	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Corsa 3 Door Hatchback Model Year 2010	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Corsa 3 Door Hatchback Model Year 2011	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+Corsa 3 Door Hatchback Model Year 2012	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Corsa 5 Door Hatchback Model Year 2010	default6Months=240.0, default12Months=132.0, first6Months=240.0, first12Months=132.0
+Corsa 5 Door Hatchback Model Year 2011	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+Corsa 5 Door Hatchback Model Year 2012	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Cruze MY2010	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Cruze MY2011	default6Months=475.0, default12Months=261.25, first6Months=475.0, first12Months=261.25
+Cruze MY2012	default6Months=610.0, default12Months=335.5, first6Months=610.0, first12Months=335.5
+Cube Model Year 2010	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+DS3	default6Months=955.0, default12Months=525.25, first6Months=955.0, first12Months=525.25
+DS4	default6Months=525.0, default12Months=288.75, first6Months=525.0, first12Months=288.75
+DS5	default6Months=630.0, default12Months=346.5, first6Months=630.0, first12Months=346.5
+Doblo	default6Months=850.0, default12Months=467.5, first6Months=850.0, first12Months=467.5
+E-Class Cabriolet Model Year 2012	default6Months=2175.0, default12Months=1196.25, first6Months=2175.0, first12Months=1196.25
+E-Class Coupé Model Year 2012	default6Months=2200.0, default12Months=1210.0, first6Months=2200.0, first12Months=1210.0
+E-Class Estate Model Year 2012	default6Months=2550.0, default12Months=1402.5, first6Months=2550.0, first12Months=1402.5
+E-Class Saloon Model Year 2012	default6Months=3750.0, default12Months=2062.5, first6Months=3750.0, first12Months=2062.5
+Elise	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Eos	default6Months=1175.0, default12Months=646.25, first6Months=1175.0, first12Months=646.25
+Exeo	default6Months=440.0, default12Months=242.0, first6Months=440.0, first12Months=242.0
+Exeo ST	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+Fabia Estate	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Fabia Hatchback	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+Fiesta Model Year Post 2012	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+Fiesta Model Year Pre 2012	default6Months=375.0, default12Months=206.25, first6Months=375.0, first12Months=206.25
+Focus Model Year Post 2012	default6Months=1830.0, default12Months=1006.5, first6Months=1830.0, first12Months=1006.5
+Focus Model Year Pre 2012	default6Months=2545.0, default12Months=1399.75, first6Months=2545.0, first12Months=1399.75
+Forester AWD MY11 onwards	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Freelander 2	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Fusion Model Year Post 2011	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+GS MY2012	default6Months=270.0, default12Months=148.5, first6Months=270.0, first12Months=148.5
+GT86 MY12	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Galaxy Model Year Post 2012	default6Months=730.0, default12Months=401.5, first6Months=730.0, first12Months=401.5
+Galaxy Model Year Pre 2012	default6Months=865.0, default12Months=475.75, first6Months=865.0, first12Months=475.75
+Giulietta	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+Golf	default6Months=1620.0, default12Months=891.0, first6Months=1620.0, first12Months=891.0
+Golf Cabriolet	default6Months=1050.0, default12Months=577.5, first6Months=1050.0, first12Months=577.5
+Golf Estate	default6Months=735.0, default12Months=404.25, first6Months=735.0, first12Months=404.25
+Golf Plus	default6Months=985.0, default12Months=541.75, first6Months=985.0, first12Months=541.75
+Grand C-MAX Model Year Post 2012	default6Months=800.0, default12Months=440.0, first6Months=800.0, first12Months=440.0
+Grand C-MAX Model Year Pre 2012	default6Months=800.0, default12Months=440.0, first6Months=800.0, first12Months=440.0
+Grand C4 Picasso	default6Months=1060.0, default12Months=583.0, first6Months=1060.0, first12Months=583.0
+Grand Scènic Model Year May 2009 onward	default6Months=390.0, default12Months=214.5, first6Months=390.0, first12Months=214.5
+IS MY2011	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Ibiza 5 door	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Ibiza Coupé	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Ibiza ST	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Impreza AWD 2011 MY	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Insignia 4 Door Saloon Model Year 2010	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+Insignia 4 Door Saloon Model Year 2012	default6Months=815.0, default12Months=448.25, first6Months=815.0, first12Months=448.25
+Insignia 5 Door Hatchback Model Year 2010	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+Insignia 5 Door Hatchback Model Year 2011	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+Insignia 5 Door Hatchback Model Year 2012	default6Months=815.0, default12Months=448.25, first6Months=815.0, first12Months=448.25
+Insignia 5 Door Sport Tourer Model Year 2010	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+Insignia 5 Door Sport Tourer Model Year 2011	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Jeep Compass MY 2011	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Jeep Compass MY2012	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Jetta	default6Months=885.0, default12Months=486.75, first6Months=885.0, first12Months=486.75
+Jimny	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Juke Model Year 2011	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+Korando 2012MY	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Kuga Model Year Post 2011	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Kuga Model Year Pre 2011	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Legacy Tourer AWD From 2010 MY	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Legacy Tourer AWD From 2012 MY	default6Months=475.0, default12Months=261.25, first6Months=475.0, first12Months=261.25
+Leon	default6Months=645.0, default12Months=354.75, first6Months=645.0, first12Months=354.75
+M-Class Model Year 2012	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+MINI Clubman R55	default6Months=850.0, default12Months=467.5, first6Months=850.0, first12Months=467.5
+MINI Convertible R57	default6Months=1125.0, default12Months=618.75, first6Months=1125.0, first12Months=618.75
+MINI Countryman R60 From September 2010	default6Months=1155.0, default12Months=635.25, first6Months=1155.0, first12Months=635.25
+MINI Coupé R58 From October 2011	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+MINI Hatchback R56	default6Months=935.0, default12Months=514.25, first6Months=935.0, first12Months=514.25
+MINI Roadster R59 From April 2012	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+Mazda2 Model Year 2011	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+Mazda3 Model Year 2009	default6Months=575.0, default12Months=316.25, first6Months=575.0, first12Months=316.25
+Mazda3 Model Year 2012	default6Months=560.0, default12Months=308.0, first6Months=560.0, first12Months=308.0
+Mazda5 Model Year 2010	default6Months=290.0, default12Months=159.5, first6Months=290.0, first12Months=159.5
+Mazda6 Model Year 2010	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Mazda6 Model Year 2011	default6Months=630.0, default12Months=346.5, first6Months=630.0, first12Months=346.5
+Megane Coupé-Cabriolet 2010	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Megane Sport Tourer 2011	default6Months=305.0, default12Months=167.75, first6Months=305.0, first12Months=167.75
+Meriva 5 Door MPV Model Year 2010	default6Months=560.0, default12Months=308.0, first6Months=560.0, first12Months=308.0
+Meriva 5 Door MPV Model Year 2011	default6Months=560.0, default12Months=308.0, first6Months=560.0, first12Months=308.0
+MiTo	default6Months=240.0, default12Months=132.0, first6Months=240.0, first12Months=132.0
+Mondeo Model Year Post 2012	default6Months=1490.0, default12Months=819.5, first6Months=1490.0, first12Months=819.5
+Mondeo Model Year Pre 2012	default6Months=1970.0, default12Months=1083.5, first6Months=1970.0, first12Months=1083.5
+Myvi	default6Months=580.0, default12Months=319.0, first6Months=580.0, first12Months=319.0
+Mégane Coupé	default6Months=305.0, default12Months=167.75, first6Months=305.0, first12Months=167.75
+Mégane Hatchback	default6Months=305.0, default12Months=167.75, first6Months=305.0, first12Months=167.75
+NEW PARTNER TEPEE	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+NV200 Model Year 2011	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+New Aveo MY2012	default6Months=545.0, default12Months=299.75, first6Months=545.0, first12Months=299.75
+New Caddy ( Passenger range )	default6Months=730.0, default12Months=401.5, first6Months=730.0, first12Months=401.5
+New Caddy Maxi ( Passenger Range)	default6Months=800.0, default12Months=440.0, first6Months=800.0, first12Months=440.0
+New cee'd	default6Months=750.0, default12Months=412.5, first6Months=750.0, first12Months=412.5
+Note	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+Note Model Year 2011	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+Octavia Estate	default6Months=2375.0, default12Months=1306.25, first6Months=2375.0, first12Months=1306.25
+Octavia Hatchback	default6Months=1595.0, default12Months=877.25, first6Months=1595.0, first12Months=877.25
+Optima	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Orlando MY2011	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Orlando MY2012	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Outback AWD From 2012 MY	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+Outlander	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Panamera	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+Passat Estate	default6Months=2010.0, default12Months=1105.5, first6Months=2010.0, first12Months=1105.5
+Passat Saloon	default6Months=1980.0, default12Months=1089.0, first6Months=1980.0, first12Months=1089.0
+Polo	default6Months=600.0, default12Months=330.0, first6Months=600.0, first12Months=330.0
+Punto	default6Months=240.0, default12Months=132.0, first6Months=240.0, first12Months=132.0
+Punto Evo	default6Months=270.0, default12Months=148.5, first6Months=270.0, first12Months=148.5
+Q3	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+Q5	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+Qashqai +2 Model Year 2011	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+Qashqai Model Year 2011	default6Months=800.0, default12Months=440.0, first6Months=800.0, first12Months=440.0
+Qubo	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+RAV4 MY2012	default6Months=340.0, default12Months=187.0, first6Months=340.0, first12Months=187.0
+RCZ	default6Months=425.0, default12Months=233.75, first6Months=425.0, first12Months=233.75
+RX MY2012	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Range Rover Evoque	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+Rio 3-door	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Rio 5-door	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+Roomster	default6Months=495.0, default12Months=272.25, first6Months=495.0, first12Months=272.25
+Roomster  Scout	default6Months=360.0, default12Months=198.0, first6Months=360.0, first12Months=198.0
+S-Class Limousine Model Year 2012	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+S-Class Model Year 2012	default6Months=170.0, default12Months=93.5, first6Months=170.0, first12Months=93.5
+S-MAX Model Year Post 2012	default6Months=900.0, default12Months=495.0, first6Months=900.0, first12Months=495.0
+S-MAX Model Year Pre 2012	default6Months=1035.0, default12Months=569.25, first6Months=1035.0, first12Months=569.25
+S40 Model Year 2012	default6Months=510.0, default12Months=280.5, first6Months=510.0, first12Months=280.5
+S60 Model Year 13	default6Months=1035.0, default12Months=569.25, first6Months=1035.0, first12Months=569.25
+S60 Model Year 2012	default6Months=645.0, default12Months=354.75, first6Months=645.0, first12Months=354.75
+S80 Model Year 13	default6Months=440.0, default12Months=242.0, first6Months=440.0, first12Months=242.0
+S80 Model Year 2012	default6Months=475.0, default12Months=261.25, first6Months=475.0, first12Months=261.25
+SLK-Class Model Year 2012	default6Months=800.0, default12Months=440.0, first6Months=800.0, first12Months=440.0
+SX4	default6Months=695.0, default12Months=382.25, first6Months=695.0, first12Months=382.25
+Scirocco	default6Months=695.0, default12Months=382.25, first6Months=695.0, first12Months=382.25
+Scènic Model Year May 2009 onward	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+Sharan	default6Months=1625.0, default12Months=893.75, first6Months=1625.0, first12Months=893.75
+Soul	default6Months=1050.0, default12Months=577.5, first6Months=1050.0, first12Months=577.5
+Splash	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+Sportage	default6Months=1255.0, default12Months=690.25, first6Months=1255.0, first12Months=690.25
+Superb	default6Months=1120.0, default12Months=616.0, first6Months=1120.0, first12Months=616.0
+Superb Estate	default6Months=1105.0, default12Months=607.75, first6Months=1105.0, first12Months=607.75
+Swift	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+TT Coupé	default6Months=595.0, default12Months=327.25, first6Months=595.0, first12Months=327.25
+TT Roadster	default6Months=475.0, default12Months=261.25, first6Months=475.0, first12Months=261.25
+Tiguan	default6Months=885.0, default12Months=486.75, first6Months=885.0, first12Months=486.75
+Touran	default6Months=2610.0, default12Months=1435.5, first6Months=2610.0, first12Months=1435.5
+Twingo	default6Months=255.0, default12Months=140.25, first6Months=255.0, first12Months=140.25
+V40 Model Year 13	default6Months=240.0, default12Months=132.0, first6Months=240.0, first12Months=132.0
+V50 Model Year 2012	default6Months=580.0, default12Months=319.0, first6Months=580.0, first12Months=319.0
+V60 Model Year 13	default6Months=730.0, default12Months=401.5, first6Months=730.0, first12Months=401.5
+V60 Model Year 2012	default6Months=765.0, default12Months=420.75, first6Months=765.0, first12Months=420.75
+V70 Model Year 13	default6Months=440.0, default12Months=242.0, first6Months=440.0, first12Months=242.0
+V70 Model Year 2012	default6Months=750.0, default12Months=412.5, first6Months=750.0, first12Months=412.5
+Veloster	default6Months=560.0, default12Months=308.0, first6Months=560.0, first12Months=308.0
+Venga	default6Months=750.0, default12Months=412.5, first6Months=750.0, first12Months=412.5
+Verso MY2010	default6Months=460.0, default12Months=253.0, first6Months=460.0, first12Months=253.0
+X1 Series s/xDrive E84 From October 2009	default6Months=1055.0, default12Months=580.25, first6Months=1055.0, first12Months=580.25
+X3 Series F25 From November 2010	default6Months=610.0, default12Months=335.5, first6Months=610.0, first12Months=335.5
+XC60 Model Year 13	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+XC60 Model Year 2012	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+XC70 Model Year 13	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+XC70 Model Year 2012	default6Months=405.0, default12Months=222.75, first6Months=405.0, first12Months=222.75
+XF	default6Months=135.0, default12Months=74.25, first6Months=135.0, first12Months=74.25
+XV AWD From 2012 MY	default6Months=780.0, default12Months=429.0, first6Months=780.0, first12Months=429.0
+Yeti	default6Months=1070.0, default12Months=588.5, first6Months=1070.0, first12Months=588.5
+Z4 Series E89	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0
+Zafira Model Year 2011	default6Months=290.0, default12Months=159.5, first6Months=290.0, first12Months=159.5
+Zafira Model Year 2012	default6Months=835.0, default12Months=459.25, first6Months=835.0, first12Months=459.25
+cee'd	default6Months=985.0, default12Months=541.75, first6Months=985.0, first12Months=541.75
+cee'd SW	default6Months=815.0, default12Months=448.25, first6Months=815.0, first12Months=448.25
+i20	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+i20 2012 Facelift	default6Months=120.0, default12Months=66.0, first6Months=120.0, first12Months=66.0
+i30 Estate	default6Months=645.0, default12Months=354.75, first6Months=645.0, first12Months=354.75
+i30 from March 2012	default6Months=560.0, default12Months=308.0, first6Months=560.0, first12Months=308.0
+i40 From September 2011	default6Months=715.0, default12Months=393.25, first6Months=715.0, first12Months=393.25
+ix20	default6Months=290.0, default12Months=159.5, first6Months=290.0, first12Months=159.5
+ix35	default6Months=1155.0, default12Months=635.25, first6Months=1155.0, first12Months=635.25
+pro_cee'd	default6Months=680.0, default12Months=374.0, first6Months=680.0, first12Months=374.0

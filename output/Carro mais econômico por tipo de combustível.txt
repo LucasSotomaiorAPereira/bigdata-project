@@ -1,0 +1,13 @@
+CNG	S80 Model Year 03
+Diesel	"B-Class, Model Year 2013"
+Diesel Electric	"E-Class Estate, Model Year 2013"
+Electricity	
+Electricity/Diesel	"V60, Model Year 2014"
+Electricity/Petrol	Prius
+LPG	Shogun Sport
+LPG / Petrol	"Zafira, MY2005"
+Petrol	Diablo Model Year 1997
+Petrol / E85	9-5 MY2008 5 Door Estate
+Petrol / E85 (Flex Fuel)	Continental
+Petrol Electric	5 Series F10/F11 From March 2010
+Petrol Hybrid	LS MY2011
